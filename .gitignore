@@ -1,0 +1,28 @@
+```
+# Build artifacts
+/build/
+/bin/
+/ios/Flutter/App.framework
+/ios/Flutter/flutter_assets
+/android/app/build/
+/android/.gradle/
+**/generated_plugin_registrant.*
+
+# Dependencies
+/pubspec.lock
+/.packages
+/.dart_tool/
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Logs
+*.log
+**/logs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+```
